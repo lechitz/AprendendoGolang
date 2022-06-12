@@ -1,6 +1,9 @@
-package Enderecos
+package enderecos_test
 
-import "testing"
+import (
+	"testing"
+	. "introducao-testes/enderecos"
+)
 
 type cenarioDeTeste struct {
 	enderecoInserido string

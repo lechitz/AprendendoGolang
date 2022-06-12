@@ -1,4 +1,4 @@
-package Enderecos
+package enderecos
 
 import "strings"
 
